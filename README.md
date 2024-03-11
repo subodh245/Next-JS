@@ -6,3 +6,8 @@ THINGS I LEARNED
 5) STYLING NEXT.JS APPLICTIONS I learned about the GLOBAL STYLES we should only use it for global styling in this file and we should not use it for indivdual componenet,CSS MODULES , TAILWIND CSS  I have learn about some classes of tailwind css for styling text , spacing , DAISY In daisy ui we get so meny built in themes , component 
 
 ![Screenshot 2024-03-09 194543](https://github.com/subodh245/Next-JS/assets/118099441/c1828682-c81a-476e-894d-ff1edbc01254)
+![Screenshot 2024-03-11 152639](https://github.com/subodh245/Next-JS/assets/118099441/b8608bca-a5d8-4dc4-ad14-75ed2df6959f)
+![Screenshot 2024-03-11 151102](https://github.com/subodh245/Next-JS/assets/118099441/42d93a56-2457-4a78-983d-eaf60859ede2)
+![Screenshot 2024-03-11 145745](https://github.com/subodh245/Next-JS/assets/118099441/2644078e-a1a7-4d2f-96e0-560c60e8aa96)
+![Screenshot 2024-03-11 142954](https://github.com/subodh245/Next-JS/assets/118099441/f9c3e9f0-58b6-4c3a-a554-f7e68bcfa862)
+
